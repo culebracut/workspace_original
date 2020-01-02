@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "pySandbox",
+			"path": "pySandbox"
+		},
+		{
+			"name": "opencv",
+			"path": "opencv"
+		},
+		{
+			"name": "tensorrt",
+			"path": "/usr/src/tensorrt"
+		},
+		{
+			"name": "bin",
+			"path": "/usr/local/bin"
+		}
+	]
+}
