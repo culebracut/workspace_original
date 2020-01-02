@@ -6,7 +6,7 @@ def nothing(x):
     pass
 
 # input images
-filePath  = r'/home/system/Desktop/ws/myPy/data/'
+filePath  = r'/home/system/Desktop/ws/data/images'
 src1 = cv2.imread(os.path.join(filePath,'seatle-skyline-kingwu.jpg'))
 src2 = cv2.imread(os.path.join(filePath,'somerset.jpg'))
 #src1 = cv2.resize(src1,(900,600))

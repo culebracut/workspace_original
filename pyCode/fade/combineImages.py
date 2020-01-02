@@ -2,21 +2,11 @@ from __future__ import print_function
 import os
 import cv2
 
+# equal weight to each image
 alpha = 0.5
 
-try:
-    raw_input          # Python 2
-except NameError:
-    raw_input = input  # Python 3
-print(''' Simple Linear Blender
------------------------
-Enter alpha [0.0-1.0]: ''')
-input_alpha = float(raw_input().strip())
-if 0 <= alpha <= 1:
-    alpha = input_alpha
-
 # input images
-filePath = r'/home/system/Desktop/ws/myPy/data/'
+filePath = r'/home/system/Desktop/ws/data/images/'
 src1 = cv2.imread(os.path.join(filePath,'seatle-skyline-kingwu.jpg'))
 src2 = cv2.imread(os.path.join(filePath,'somerset.jpg'))
 src1 = cv2.resize(src1,(400,400))
