@@ -1,5 +1,5 @@
 #
-# query user and plot line
+# query user and plot line...
 
 import cv2
 import numpy as np

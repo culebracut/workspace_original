@@ -5,16 +5,15 @@
 			"path": "pySandbox"
 		},
 		{
-			"name": "opencv",
+			"name": "openCV",
 			"path": "opencv"
 		},
 		{
-			"name": "tensorrt",
+			"name": "tensorRT",
 			"path": "/usr/src/tensorrt"
 		},
 		{
-			"name": "bin",
-			"path": "/usr/local/bin"
+			"path": "jetson-inference"
 		}
 	]
 }
