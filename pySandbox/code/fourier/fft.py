@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import scipy.fftpack
 
-#
+##
 
 fig = plt.figure(figsize=[14,4])
 N = 600           # Number of samplepoints

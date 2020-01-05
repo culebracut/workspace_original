@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 from matplotlib import pyplot as plt
 
-#
+##
 img = cv2.imread('/home/system/Desktop/workspace/pySandbox/data/images/baboon.jpg',0)
 
 f = np.fft.fft2(img)

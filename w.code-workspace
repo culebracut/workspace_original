@@ -11,9 +11,6 @@
 		{
 			"name": "tensorRT",
 			"path": "/usr/src/tensorrt"
-		},
-		{
-			"path": "jetson-inference"
 		}
 	]
 }
