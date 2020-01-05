@@ -13,8 +13,11 @@
 			"path": "/usr/src/tensorrt"
 		},
 		{
-			"name":	"data",
+			"name": "data",
 			"path": "data"
+		},
+		{
+			"path": "jetson-inference"
 		}
 	]
 }
