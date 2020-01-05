@@ -15,9 +15,6 @@
 		{
 			"name": "data",
 			"path": "data"
-		},
-		{
-			"path": "jetson-inference"
 		}
 	]
 }
