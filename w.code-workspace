@@ -2,7 +2,7 @@
 	"folders": [
 		{
 			"name": "sandbox",
-			"path": "pySandbox"
+			"path": "sandbox"
 		},
 		{
 			"name": "openCV",
