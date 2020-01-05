@@ -11,6 +11,9 @@
 		{
 			"name": "tensorRT",
 			"path": "/usr/src/tensorrt"
+		},
+		{
+			"path": "data"
 		}
 	]
 }
